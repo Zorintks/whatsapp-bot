@@ -1,4 +1,4 @@
-cat > README.md <<EOL
+
 # WhatsApp Bot
 
 Este é um bot de WhatsApp feito com **whatsapp-web.js** que permite interações via comandos, semelhante a bots de Discord.  
