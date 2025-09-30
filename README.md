@@ -10,7 +10,7 @@ Ele é ideal para enviar mensagens automáticas ou responder a comandos específ
 
 1. Clone o repositório:
 \`\`\`bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/Zorintks/whatsapp-bot.git
 \`\`\`
 
 2. Entre na pasta do projeto:
